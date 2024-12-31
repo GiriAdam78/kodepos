@@ -3,7 +3,7 @@
 
 Versi : 1.0.0
 
-### Tata Cara Penggunaan ###
+### Cara Penggunaan ###
 
 1. Hit Code `GET` Search API
 
