@@ -3,7 +3,6 @@
 ### DI BUAT DENGAN EXPRESS & NODEJS ###
 
 Versi : 1.0.0
------------------------------------
 
 ### Tata Cara Penggunaan ###
 
