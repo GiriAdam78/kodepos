@@ -21,6 +21,15 @@ app.use(
         origin: "*",
     })
 );
+app.get("/data-all", async (req,res) => {
+ try{
+    const result = await pool.query('select * from kode_pos');
+    res.status(200).json(result.rows);
+ }catch(error){
+    console.error('Error fetching data:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+ }
+});
 
 // Route Post
 app.post("/kodepos", async (req,res) =>{
