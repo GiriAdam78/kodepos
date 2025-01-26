@@ -20,7 +20,7 @@ Response :
     "updatedAt": "2024-12-31T06:53:37.612Z"
 }
 ```
-
+![Logo Api](https://ik.imagekit.io/ez2pfjbvj/Kodepos%20Api.png?updatedAt=1737905575726)
 
 
 
